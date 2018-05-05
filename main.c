@@ -33,7 +33,7 @@ int main(void) {
     liga_vertices(g,5,6,9);
     liga_vertices(g,3,6,2);
     liga_vertices(g,7,8,9);
-    liga_vertices(g,8,9,4);
+
     liga_vertices(g,10,11,1);
     liga_vertices(g,12,11,4);
     liga_vertices(g,10,12,8);
